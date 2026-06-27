@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">Planner App</h1>
-<p align="center"><i>Aplikasi produktivitas all-in-one untuk mengatur jadwal, catatan, dan keuangan secara offline.</i></p>
+<p align="center"><i>Aplikasi produktivitas all-in-one untuk mengatur jadwal, catatan, dan keuangan.</i></p>
 
 ---
 
-**Planner** adalah aplikasi produktivitas yang dirancang untuk membantu Anda mengatur jadwal, mencatat hal penting, dan mengelola keuangan pribadi dalam satu tempat yang praktis dan **100% offline**!
+**Planner** adalah aplikasi produktivitas yang dirancang untuk membantu Anda mengatur jadwal, mencatat hal penting, dan mengelola keuangan pribadi dalam satu tempat yang praktis!
 
 ### ✨ Fitur Unggulan Planner:
 
